@@ -13,6 +13,7 @@ body {
 }
 img {
   width: 100%;
+  border-radius: 5px;
 }
 p {
   color: rgb(255, 255, 255);
@@ -56,6 +57,7 @@ nav ul li {
 }
 nav ul li a {
   color: white;
+  padding: 0.3rem;
   font-size: large;
   text-decoration: none;
 }
@@ -69,16 +71,21 @@ nav ul li a:hover {
   font-size: 1.2rem;
   cursor: pointer;
 }
-
 #contactMe {
-  border: 1px solid #666666;
-  border-radius: 4px;
-  padding: 1rem;
-  color: #00a5ff !important;
+  margin: 10px;
 }
-#contactMe:hover {
-  color: #000000 !important;
+
+#contactMe a {
+  border: 2px solid #666666;
+  border-radius: 4px;
+  padding: 0.5rem;
+  color: #00a5ff;
+  margin-top: 10px;
+}
+#contactMe a:hover {
+  color: #000000;
   background-color: #00a5ff;
+  border-color: #00a5ff;
 }
 
 /* Header */
@@ -149,8 +156,22 @@ main {
   color: gray;
 }
 
+#brake {
+  display: none;
+}
+
+.post-body {
+  font-size: 1rem;
+  direction: ltr;
+  color: #0090ff;
+}
+
 .post-author {
   margin: 10px;
+}
+
+#asci {
+  font-size: 0.3rem;
 }
 
 .post-content h1 {
@@ -171,17 +192,20 @@ aside {
 }
 
 .about-me img {
-  width: 100px;
-  height: 100px;
+  width: 125px;
+  height: 125px;
   border-radius: 50%;
   margin: 0 auto;
+  border: 10px outset #111927;
 }
 article {
   border-bottom: 3px solid #0090ff;
 }
 .sidebar-content {
   border-bottom: 3px solid #0090ff;
-  padding-bottom: 10px;
+  padding: 10px;
+  background-color: #111927;
+  border-radius: 10px;
 }
 
 /* Languages */
@@ -193,6 +217,10 @@ article {
 .languages div {
   display: flex;
   flex-direction: row;
+}
+
+.languages hr {
+  border-radius: 3px;
 }
 
 .arabic hr {
@@ -331,7 +359,15 @@ footer .socials a {
     padding: 10px;
     border-right: 3px solid #0090ff;
   }
-
+  #contactMe {
+    margin: 0px;
+  }
+  #asci {
+    font-size: 0.5rem;
+  }
+  #brake {
+    display: flex;
+  }
   main {
     width: 70%;
   }
@@ -358,6 +394,9 @@ footer .socials a {
     border-radius: 0;
     font-size: large;
     cursor: pointer;
+  }
+  #asci {
+    font-size: 0.7rem;
   }
   header {
     height: 100vh;
