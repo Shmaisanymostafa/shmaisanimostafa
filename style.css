@@ -162,12 +162,13 @@ main {
 
 .post-body {
   font-size: 1rem;
-  direction: ltr;
+
   color: #0090ff;
 }
 
 .post-author {
   margin: 10px;
+  direction: ltr;
 }
 
 #asci {
