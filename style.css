@@ -202,6 +202,21 @@ aside {
 article {
   border-bottom: 3px solid #0090ff;
 }
+
+#projectLink {
+  /* border: 2px solid #00a5ff; */
+  border-radius: 4px;
+  background-color: #0000ee;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 0.2rem;
+}
+
+#projectLink:hover {
+  color: #000000;
+  background-color: #0090ff;
+}
+
 .sidebar-content {
   border-bottom: 3px solid #0090ff;
   padding: 10px;
@@ -210,33 +225,36 @@ article {
 }
 
 /* Languages */
-.languages small {
+
+#languages div {
+  display: flex;
+  flex-direction: row;
+}
+#languages span {
+  width: 100%;
+  margin: 10px;
   color: #0090ff;
   font-size: large;
   width: 5rem;
 }
-.languages div {
-  display: flex;
-  flex-direction: row;
-}
 
-.languages hr {
+#languages hr {
   border-radius: 3px;
 }
 
 .arabic hr {
   background-color: #0090ff;
-  width: 100%;
+  width: 60%;
   height: 2rem;
 }
 .english hr {
   background-color: #0090ff;
-  width: 100%;
+  width: 70%;
   height: 2rem;
 }
 .persian hr {
   background-color: #0090ff;
-  width: 60%;
+  width: 40%;
   height: 2rem;
 }
 
