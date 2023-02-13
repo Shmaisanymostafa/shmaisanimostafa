@@ -17,8 +17,8 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./style.css" />
-    <link rel="icon" type="image/png" href="./images/Icons/binary-code.png">
-    <title>Mostafa Shmaisani</title>
+    <link rel="Icons" type="image/png" href="./images/Icons/favicon.png">
+        <title>Mostafa Shmaisani</title>
   </head>
   <body>
     <!-- nav -->
@@ -50,8 +50,8 @@
     <!-- header -->
     <header id="header">
       <div class="header-content">
-        <h1>مصطفى شميساني</h1>
-        <p>
+        <h1 class="about-name">مصطفى حسن شميساني</h1>
+        <p class="about-me-bio">
           متخصص في علم الحاسوب والبرمجيات
         </p>
         <!-- <a href="#">
@@ -63,7 +63,7 @@
       <video id="background-video" autoplay loop muted >
         <source src="./images/Binary Blue Animation.mov" type="video/mp4">
         </video>
-      
+        
     </header>
    
 
@@ -74,7 +74,7 @@
 
 
     <!--MySelf-->
-    <div class="about-me">
+    <!-- <div class="about-me">
       <h1>معلومات شخصية</h1>
       <img class="avatar" src="./images/Mostafa Shmaisani.jpg" alt="" />
 
@@ -84,7 +84,7 @@
         متخصص في علم الحاسوب والبرمجيات في جامعة المعارف في بيروت. مبرمج مواقع الكترونية, تطبيقات
         الهواتف, العاب الفيديو. ولا ننسى الذكاء الصناعي 
       </p>
-    </div>
+    </div> -->
         <br><br>
         <article class="post-content">
           <h1 class="post-title">حالة البطارية</h1>
@@ -99,8 +99,10 @@
               <time datetime="2020-01-01">4\شباط\2023</time>
             </span>
           </p>
-          <p  class="post-body">هذا المشروع يبين بعض التفاصيل المتعلقة ببطارية الجهاز. </p>       
+          <p  class="post-body">هذا المشروع يبين بعض التفاصيل المتعلقة ببطارية الجهاز. </p> 
+          <div class="projectLink">     
           <a id="projectLink" href="https://shmaisanimostafa.github.io/Battery-Status/" class="post-read-more">اضغط هنا لمعاينة المشروع</a>
+        </div> 
         </article>
         <br><br>
         <article class="post-content">
@@ -211,6 +213,19 @@
       <!-- aside -->
       <aside class="sidebar">
         <div id="brake"><br><br></div>
+        <div style="
+        display: flex; 
+        background-color: #0090ff; 
+        border-radius: 5px;   
+        justify-content: center;
+        ">
+          
+          <h3 style="color: white;">
+          المقالات الأكثر مطالعتا
+          </h3>
+        </div>
+        <br><br>
+
         <div class="sidebar-content">
           <h1 class="post-title">مستقبل التكنولوجيا</h1>
           <img src="./images/squares.jpg" alt="jpg" class="post-image" />
@@ -316,6 +331,7 @@
             +961 70 185 306
           </span>
           <span>
+           
             <!-- <i class="fas fa-envelope"></i> -->
             <a href="mailto:shmaisanimostafa@gmail.com" style="color: #0090ff;">
               Shmaisanimostafa@Gmail.com
