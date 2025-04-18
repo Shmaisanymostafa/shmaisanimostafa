@@ -1,32 +1,114 @@
-[![Header](./images/Header.jpg)]()
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shmaisanimostafa/shmaisanimostafa/main/images/Header.jpg" alt="Header" width="100%"/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Mostafa Hassan Shmaiasani</h1>
-<h3 align="center">A passionate Computer Scientist from Lebanon</h3>
-</br>
-<img align="right" alt="Coding" width="400"
-src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</br>
-<p align="left"> <a href="https://twitter.com/shmaisanimstf" target="blank"><img src="https://img.shields.io/twitter/follow/shmaisanimstf?logo=twitter&style=for-the-badge" alt="shmaisanimstf" /></a> </p>
+<h1 align="center">👋 Hello, I'm Mostafa Hassan Shmaiasani</h1>
+<h3 align="center">Computer Science Student | Full Stack Developer | Tech Enthusiast</h3>
 
-- 🔭 I’m currently working on [my Personal Website](https://shmaisanimostafa.github.io/shmaisanimostafa)
-
-- 🌱 I’m currently learning **Computer Science at AlMaaref University**
-
-- 🌱 I’m also learning **Full Stack Web Development on Udemy**
-
-- 📫 How to reach me **Shmaisanimostafa@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shmaisanimstf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shmaisanimstf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shmaisanimostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shmaisanimostafa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17663943" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17663943" height="30" width="40" /></a>
-<a href="https://fb.com/shmaisanimostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shmaisanimostafa" height="30" width="40" /></a>
-<a href="https://www.behance.net/shmaisanimostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shmaisanimostafa" height="30" width="40" /></a>
-<a href="https://discord.gg/Mostafa Shmaisani#5339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mostafa Shmaisani#5339" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/shmaisanimstf" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/shmaisanimstf?style=social&logo=twitter" alt="Twitter Follow">
+  </a>
+  <a href="https://github.com/shmaisanimostafa" target="_blank">
+    <img src="https://img.shields.io/github/followers/shmaisanimostafa?style=social&logo=github" alt="GitHub Follow">
+  </a>
+  <a href="https://www.linkedin.com/in/shmaisanimostafa" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
+## 🌟 About Me
 
+<div align="center">
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400">
+</div>
+
+I'm a passionate Computer Science student at AlMaaref University with a strong interest in full-stack web development and software engineering. Currently expanding my skills through coursework and online learning platforms.
+
+- 🔭 Currently working on: [My Personal Website](https://shmaisanimostafa.github.io/shmaisanimostafa)
+- 🌱 Learning: Full Stack Web Development (MERN Stack) on Udemy
+- 🎨 Design Skills: UI/UX, Graphic Design
+- 📫 How to reach me: [Shmaisanimostafa@gmail.com](mailto:Shmaisanimostafa@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love combining creativity with technology
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+</p>
+
+### Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+### Tools & Design
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shmaisanymostafa&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shmaisanymostafa&theme=radical" alt="GitHub Streak">
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmaisanymostafa&layout=compact&theme=radical" alt="Top Languages">
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shmaisanymostafa&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://twitter.com/shmaisanimstf" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="50"/>
+  </a>
+  <a href="https://linkedin.com/in/shmaisanimostafa" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50"/>
+  </a>
+  <a href="https://stackoverflow.com/users/17663943" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" width="50"/>
+  </a>
+  <a href="https://www.behance.net/shmaisanimostafa" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/behance.png" alt="Behance" width="50"/>
+  </a>
+  <a href="mailto:Shmaisanimostafa@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="50"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shmaisanimostafa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <p>❤️ Thanks for visiting!</p>
+</div>
